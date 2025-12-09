@@ -5,17 +5,17 @@
   font-family: Arial, sans-serif;
 }
 body{
-  background-color: #232323;
+  background-color: #ff0404;
 }
+
 h1, h2, h3, h4, h5, h6, p, a{
-  color: white;
   text-decoration: none;
 }
 
 .text-style{
   font-family: monospace;
   font-size: 1.8rem; /* rem: 16px */
-  font-style: oblique;
+  font-style: oblizque;
   font-weight: bolder;
 }
 .purple{color:blueviolet}
@@ -40,7 +40,7 @@ h1, h2, h3, h4, h5, h6, p, a{
 }
 
 .card {
-  background: white;
+  background: rgb(0, 12, 65);
   border-radius: 12px;
   overflow: hidden;
   max-width: 800px;
